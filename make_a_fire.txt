@@ -11,6 +11,9 @@
     2.3.1light match
     2.3.1 put match in kindling
   2.4 fan the flames
+    2.4.1 take a deep breath
+    2.4.2 exhale into the base of the fire
+    2.4.3 repeat until fire is strong
 3 keep fire going
   3.1 add log one at a time
     3.1.1 pick log up
