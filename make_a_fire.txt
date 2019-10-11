@@ -1,8 +1,9 @@
 1 gather firewood
-  1.1 find kindling
-  1.2 find small sticks
-  1.3 find logs
-  1.4 bring firewood back to safe space
+  1.1 walk into woods
+    1.1.1 find kindling
+    1.1.2 find small sticks
+    1.1.3 find logs
+    1.1.4 bring firewood back to safe space
 2 light fire
   2.1 arrange kindling
   2.2 put small sticks on top of kindling
@@ -12,6 +13,6 @@
   2.4 fan the flames
 3 keep fire going
   3.1 add log one at a time
-4 put out fire 
+4 put out fire
   4.1 collect water
   4.2 put water on fire
