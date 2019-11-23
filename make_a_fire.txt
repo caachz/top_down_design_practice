@@ -22,4 +22,4 @@
 4 put out fire
   4.1 collect water
   4.2 put water on fire
-  4.3 clean up your trash
+5 clean up your trash
